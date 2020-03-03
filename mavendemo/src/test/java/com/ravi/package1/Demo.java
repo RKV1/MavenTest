@@ -11,7 +11,8 @@ public class Demo {
 		System.out.println("Hello Ravikiran==========");
 		System.setProperty("webdriver.chrome.drvier", "chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://sppoc.speridian.com:9001/siebel/app/publicsector/enu");
+		//driver.get("https://sppoc.speridian.com:9001/siebel/app/publicsector/enu");
+		driver.get("https://www.google.com");
 		Thread.sleep(5000);
 		driver.quit();
 	}
