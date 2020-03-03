@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="24" started-at="2019-07-09T09:43:35Z" finished-at="2019-07-09T09:43:35Z">
+  <suite name="Suite" duration-ms="14552" started-at="2020-03-03T09:28:32Z" finished-at="2020-03-03T09:28:47Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="24" started-at="2019-07-09T09:43:35Z" finished-at="2019-07-09T09:43:35Z">
+    <test name="Test" duration-ms="14552" started-at="2020-03-03T09:28:32Z" finished-at="2020-03-03T09:28:47Z">
       <class name="com.ravi.package1.Demo">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.ravi.package1.Demo@7f63425a]" name="f" duration-ms="10" started-at="2019-07-09T15:13:35Z" finished-at="2019-07-09T15:13:35Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.ravi.package1.Demo@73f792cf]" name="f" duration-ms="14495" started-at="2020-03-03T14:58:32Z" finished-at="2020-03-03T14:58:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
