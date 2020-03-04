@@ -12,7 +12,9 @@ public class Demo {
 		System.setProperty("webdriver.chrome.drvier", "chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		//driver.get("https://sppoc.speridian.com:9001/siebel/app/publicsector/enu");
-		driver.get("https://presalesdemosvr.speridian.com:9022/siebel/app/fins/enu");
+		//driver.get("https://presalesdemosvr.speridian.com:9022/siebel/app/fins/enu");
+		driver.get("https://www.google.com");
+		
 		Thread.sleep(5000);
 		driver.quit();
 	}
